@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Biography on Guntars Gedulis</title>
+    <link>http://example.com/tags/biography/</link>
+    <description>Recent content in Biography on Guntars Gedulis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy 2019</copyright>
+    <lastBuildDate>Sun, 18 Mar 2018 12:13:30 +0530</lastBuildDate>
+    
+	<atom:link href="http://example.com/tags/biography/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Guntars&#39; Biography (Part II)</title>
+      <link>http://example.com/blog/biography-2/</link>
+      <pubDate>Sun, 18 Mar 2018 12:13:30 +0530</pubDate>
+      
+      <guid>http://example.com/blog/biography-2/</guid>
+      <description>&amp;ldquo;Music is a window to a different, spiritual world; a bridge that brings us out of the everyday and joins us with the experience.&amp;rdquo; (Guntars Gudelis)
+The composer, conductor, singer, teacher and active Latvian community member Guntars Gedulis was born on August 27th, 1952 in New York, the United States. His first musical impressions were received from his father, singer Visvaldis Gedulis. From an early age he learned to play the piano, later clarinet, performing in school orchestras.</description>
+    </item>
+    
+    <item>
+      <title>Guntar&#39;s Biography (Part I)</title>
+      <link>http://example.com/blog/biography-1/</link>
+      <pubDate>Sun, 18 Mar 2018 02:01:58 +0530</pubDate>
+      
+      <guid>http://example.com/blog/biography-1/</guid>
+      <description>Guntars Gedulis was born of Latvian parents in Manhattan, where he received his basic education. He has resided in Venezuela since 1975, and works as a composer, conductor, music educator, singer and organizer of musical events.
+Beginning piano and clarinet studies at an early age, he graduated from The High School of Music and Art (music composition) and The City College of New York (CUNY), where he studied conducting and with the composers Miriam Gideon and Mario Davidovsky.</description>
+    </item>
+    
+  </channel>
+</rss>

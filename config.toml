@@ -1,0 +1,19 @@
+baseURL = "https://andreispurim.github.io/Gedulis/"
+languageCode = "en-us"
+title = "Guntars Gedulis"
+theme = "resto-hugo"
+copyright = "&copy 2019" # HTML tags supported
+googleAnalytics = "UA-123-45"
+disqusShortname = "yourdiscussshortname"
+
+# Theme specific configuration
+[params]
+logo = "img/logo-1.png"
+enableDisqus = false # enable / disable comments for blog posts
+enableGA = false # enable / disable google analytics
+heroText = ""
+footerText = "This area supports HTML code. Text can be edited with <code>footerText</code> value in config.toml"
+facebook = "https://facebook.com"
+twitter = "https://twitter.com"
+instagram = "https://instagram.com"
+
