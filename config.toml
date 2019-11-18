@@ -1,10 +1,12 @@
-baseURL = "https://andreispurim.github.io/gedulis/"
+baseURL = "https://andreispurim.github.io/Gedulis/"
 languageCode = "en-us"
 title = "Guntars Gedulis"
 theme = "resto-hugo"
 copyright = "&copy 2019" # HTML tags supported
 googleAnalytics = "UA-123-45"
 disqusShortname = "yourdiscussshortname"
+
+publishDir = "docs"
 
 # Theme specific configuration
 [params]
