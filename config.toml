@@ -1,4 +1,4 @@
-baseURL = "https://andreispurim.github.io/Gedulis/"
+baseURL = "https://andreispurim.github.io/gedulis/"
 languageCode = "en-us"
 title = "Guntars Gedulis"
 theme = "resto-hugo"
